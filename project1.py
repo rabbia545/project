@@ -95,3 +95,33 @@
 # else:
 #     print ("Fail")
 
+
+
+
+# And
+# a = 6
+# b = 5
+# c = 5
+# d = a > b and a > c
+# print (d)
+
+
+
+
+a = 11
+b = 15
+c = 50
+list = [10,20,30,40,50,60];
+if (a in list):
+    print ("a is in given list")
+elif (c in list):
+        print("c is in given list")
+else:
+    print("a is not in given list")
+
+if (b in list):
+    print("b is in given list")
+elif (c in list):
+    print ("c is in given list")
+else:
+    print("b is not in given list")
