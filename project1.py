@@ -31,8 +31,6 @@
 
 
 # Bangla = 55
-# # if Bangla >= 90:
-# #     print ("Pass")
 # if Bangla >= 80:
 #     print("A+")
 # elif Bangla >=70:
@@ -59,7 +57,41 @@
 
 # for i in range (2,10,2):
 #     print (i)
-for s in range (1,51,5):
-    print (s)
-a = 9
-b = 4
+# for s in range (1,51,5):
+#     print (s)
+
+
+# # if else
+# a = 101
+# if a >= 80:
+#     print ("A+")
+# elif a >= 70:
+#     print ("A")
+# elif a >=60:
+#     print ("A-")
+# elif a >= 50:
+#     print ("B")
+# elif a >= 40:
+#     print ("C")
+# elif a >= 33:
+#     print ("D")
+# else:
+#     print("Fail")
+
+
+# b = 55
+# if b >= 80:
+#     print ("A+")
+# elif b >= 70:
+#     print ("A")
+# elif b >= 60:
+#     print ("A-")
+# elif b >= 50:
+#     print ("B")
+# elif b >= 40:
+#     print ("C")
+# elif b >= 33:
+#     print ("D")
+# else:
+#     print ("Fail")
+
