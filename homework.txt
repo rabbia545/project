@@ -36,6 +36,23 @@ dic count korar
 
 
 
+
+#### args
+
+
+variable length argument
+
+#### kwargs
+
+
+keyword arguments
+
 HomeWork 2
+
+
+
+funtion all
+class all
+lumbda all
 
 
