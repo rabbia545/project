@@ -14,8 +14,8 @@ student = ["Rab",918822,"Computer","hafiz",918784,"Computer","Rokon",133397,"Des
 
 # student.insert (4,"hujur")
 # print (student)
-student.extend (["Rokon","Desktop","dekhio","na"])
-print (student)
+# student.extend (["Rokon","Desktop","dekhio","na"])
+# print (student)
 
 
 
@@ -62,11 +62,9 @@ print (student)
 
 
 
-# student = ["Rab", 918822, "Computer", "Rab", 13397, "Computer", "Rab", 918784, "Computer"]
+# student = ["Rab", 918822, "Computer", "Rab", 133397, "Computer", "Rab", 918784, "Computer","Computer"]
 # for data in student:
-#     if data == "Rab":
+#     if data == "Computer":
 #         print (data)
-    
-
-# c = student.count("Rab")
+# c = student.count("Computer")
 # print (c)
