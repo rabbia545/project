@@ -1,3 +1,17 @@
+
+django-admin startproject mysite
+python manage.py startapp appname
+
+
+
+python manage.py runserver
+
+
+
+
+
+
+
 HomeWork 1
 
 list
